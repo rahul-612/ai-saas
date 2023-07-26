@@ -46,7 +46,7 @@ export async function GET() {
           price_data: {
             currency: "INR",
             product_data: {
-              name: "Genius Pro",
+              name: "Mitra Pro",
               description: "Unlimited AI Generations"
             },
             unit_amount: 200000,
