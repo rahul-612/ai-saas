@@ -11,7 +11,7 @@ export const FreeCounter = ({
   isPro = false,
   apiLimitCount = 0,
 }: {
-  // isPro: boolean,
+  isPro: boolean,
   apiLimitCount: number
 }) => {
   const [mounted, setMounted] = useState(false);
